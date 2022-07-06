@@ -1,1 +1,4 @@
-# SQL_aula23
+# Integrantes
+- Anderlany Aragão
+- José Iranildo
+- Isabel Catão
